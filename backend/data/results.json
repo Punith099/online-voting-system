@@ -1,0 +1,193 @@
+[
+  {
+    "id": "338e5590-6078-4ed6-bcbd-ee8efec94c5e",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "feb9d68f-27dc-455d-a199-630a3ab83738",
+    "start_time": "2025-10-30T18:48:11.068089",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "dd5ebb1d-3023-401e-be86-1af526fb484f",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "feb9d68f-27dc-455d-a199-630a3ab83738",
+    "start_time": "2025-10-30T18:48:11.077810",
+    "end_time": "2025-10-30T18:48:28.984033",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "da1b8011-9119-4f8f-9307-da912867cbd8",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "feb9d68f-27dc-455d-a199-630a3ab83738",
+    "start_time": "2025-10-30T18:57:43.252970",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "c0213d8d-41d7-4590-8f6d-44b2d18300f5",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "feb9d68f-27dc-455d-a199-630a3ab83738",
+    "start_time": "2025-10-30T18:57:43.259716",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "8deb6318-767e-4042-a7e3-1735a8446535",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "feb9d68f-27dc-455d-a199-630a3ab83738",
+    "start_time": "2025-10-30T19:01:32.494044Z",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "5686bb59-543b-439b-9526-7beb0c9b3a7c",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:15:17.838962Z",
+    "end_time": "2025-10-30T19:25:17.838962Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "609a5c20-17bb-40a9-8d35-c5c2ce8f8964",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:15:17.845727Z",
+    "end_time": "2025-10-30T19:25:17.845727Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "afab5674-7370-4ccc-9195-734cf1952ae2",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:23:36.485749Z",
+    "end_time": "2025-10-30T19:33:36.485749Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "2a4f1fb2-96bf-443a-af85-a44ba5d2b1f8",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:35:23.769165Z",
+    "end_time": "2025-10-30T19:45:23.769165Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "b347e198-1384-4a8a-ace8-fb1d88c76861",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:35:23.774386Z",
+    "end_time": "2025-10-30T19:45:23.774386Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "c37e56d6-1cec-46aa-8b8b-0c6a2e931eb1",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:45:34.558127Z",
+    "end_time": "2025-10-30T19:55:34.558127Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "3fb12987-95b9-4a0e-a4d6-4452054d6780",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:45:34.563715Z",
+    "end_time": "2025-10-30T19:55:34.563715Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "a4888a53-36ef-46bf-a7f9-8982a5d63f66",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-30T19:48:16.468651Z",
+    "end_time": "2025-10-30T19:58:16.468651Z",
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "f70e2d54-3bad-4370-9dc1-94c7cdb0f9c7",
+    "quiz_id": "18832557-d3e9-42e5-8c1f-65088838475b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-31T08:27:55.691954Z",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "41023a2c-f040-45f8-9c88-563542f2b837",
+    "quiz_id": "97fab9f6-2d54-4521-9914-f437bf25009b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-31T08:29:59.268833Z",
+    "end_time": "2025-10-31T08:33:01.273501Z",
+    "answers": [
+      {
+        "question_id": "c3c1743c-3fca-45fd-b95b-8708f8965af6",
+        "chosen_index": 0
+      }
+    ],
+    "score": 100.0
+  },
+  {
+    "id": "899f404b-a7d9-4145-a365-1a5152b03ded",
+    "quiz_id": "97fab9f6-2d54-4521-9914-f437bf25009b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-31T08:33:18.591628Z",
+    "end_time": "2025-10-31T08:33:28.710782Z",
+    "answers": [
+      {
+        "question_id": "c3c1743c-3fca-45fd-b95b-8708f8965af6",
+        "chosen_index": 1
+      }
+    ],
+    "score": 0.0
+  },
+  {
+    "id": "3ab13a29-6035-478a-b74d-3c51bf80dbfd",
+    "quiz_id": "97fab9f6-2d54-4521-9914-f437bf25009b",
+    "user_id": "6d5e8ee6-a4aa-486b-b6d3-3fb69d0a8e51",
+    "start_time": "2025-10-31T08:33:36.342001Z",
+    "end_time": null,
+    "answers": [],
+    "score": 0.0
+  },
+  {
+    "id": "524e96c5-cd17-49a8-9aef-b3f83bf4daed",
+    "quiz_id": "97fab9f6-2d54-4521-9914-f437bf25009b",
+    "user_id": "6be2381c-eb06-4e4c-8310-14e699c5ec7d",
+    "start_time": "2025-10-31T08:37:40.952521Z",
+    "end_time": "2025-10-31T08:37:52.966598Z",
+    "answers": [
+      {
+        "question_id": "c3c1743c-3fca-45fd-b95b-8708f8965af6",
+        "chosen_index": 0
+      }
+    ],
+    "score": 100.0
+  },
+  {
+    "id": "d2ceaa6d-5502-4fb0-b134-286a6f1d5482",
+    "quiz_id": "97fab9f6-2d54-4521-9914-f437bf25009b",
+    "user_id": "b838dd73-5c42-4252-bc69-febcc02fd530",
+    "start_time": "2025-10-31T08:51:26.796664Z",
+    "end_time": "2025-10-31T08:51:30.344488Z",
+    "answers": [
+      {
+        "question_id": "c3c1743c-3fca-45fd-b95b-8708f8965af6",
+        "chosen_index": 0
+      }
+    ],
+    "score": 100.0
+  }
+]
